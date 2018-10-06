@@ -13,6 +13,7 @@ set encoding=utf-8
 
 #### " 编码设置
 set enc=utf-8
+
 set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
 
 #### " 检测文件类型
@@ -35,6 +36,7 @@ set nowrapscan
 
 #### " 搜索时忽略大小写，但在有一个或以上大写字母时仍大小写敏感
 set ignorecase
+
 set smartcase
 
 #### " 搜索时高亮显示被找到的文本
